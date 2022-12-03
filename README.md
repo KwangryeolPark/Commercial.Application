@@ -1,20 +1,2 @@
-<<<<<<< HEAD
 # my_application
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Commercial.Application
->>>>>>> a19c1804de54feb7445fbe400f22143c35753205
+<a href="https://kmong.com/@%EA%B8%8D%EC%A0%95%EC%A0%81%EC%9D%B8%EB%A7%89%EC%9E%A54554">긍정적인막장4554</a>
