@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65926409161",
+    "firebase_url": "https://fir-test-158a3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-test-158a3",
+    "storage_bucket": "fir-test-158a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65926409161:android:fd296ebffddd9cccfb1618",
+        "android_client_info": {
+          "package_name": "com.kmong_project.my_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65926409161-aakbgjen9bb1oa2jn9vjklv2ind34qsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBizaUwKHiKztwwTOXKAPyPpF1GLKfOSoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65926409161-aakbgjen9bb1oa2jn9vjklv2ind34qsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
